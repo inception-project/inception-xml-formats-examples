@@ -1,0 +1,13 @@
+name: TMX Content Policies
+version: 1.0
+policies:
+  - elements: [ 
+      "tmx", 
+      "body", 
+      "tu", 
+      "tuv",
+      "seg"]
+    action: "PASS"
+  - attributes: ["{http://www.w3.org/XML/1998/namespace}lang"]
+    action: "PASS_NO_NS"
+

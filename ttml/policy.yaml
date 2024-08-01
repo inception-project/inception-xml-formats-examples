@@ -1,0 +1,12 @@
+name: TTML Content Policies
+version: 1.0
+policies:
+  - elements: [ 
+      "{http://www.w3.org/ns/ttml}tt", 
+      "{http://www.w3.org/ns/ttml}body", 
+      "{http://www.w3.org/ns/ttml}div", 
+      "{http://www.w3.org/ns/ttml}p" ]
+    action: "PASS"
+  - attributes: ["{http://www.w3.org/ns/ttml#metadata}agent"]
+    action: "PASS_NO_NS"
+

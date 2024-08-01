@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tmx version="1.4">
+  <header
+    creationtool="ExampleTool"
+    creationtoolversion="1.0"
+    segtype="sentence"
+    adminlang="en-us"
+    srclang="de"
+    datatype="plaintext"/>
+  <body>
+    <tu tuid="1">
+      <tuv xml:lang="de">
+        <seg>Hallo Welt</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Hello World</seg>
+      </tuv>
+    </tu>
+    <tu tuid="2">
+      <tuv xml:lang="de">
+        <seg>Wie geht es Ihnen?</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>How are you?</seg>
+      </tuv>
+    </tu>
+    <tu tuid="3">
+      <tuv xml:lang="de">
+        <seg>Das Wetter ist schön heute.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>The weather is nice today.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="4">
+      <tuv xml:lang="de">
+        <seg>Ich liebe Programmierung.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>I love programming.</seg>
+      </tuv>
+    </tu>
+    <tu tuid="5">
+      <tuv xml:lang="de">
+        <seg>Das Leben ist voller Überraschungen und manchmal passieren Dinge, die wir nicht erwarten. In solchen Momenten lernen wir, flexibel und anpassungsfähig zu sein.</seg>
+      </tuv>
+      <tuv xml:lang="en">
+        <seg>Life is full of surprises and ometimes things happen that we do not expect. In such moments, we learn to be flexible and adaptable.</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>

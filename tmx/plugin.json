@@ -1,0 +1,10 @@
+{
+  "name": "TMX (external)",
+  "stylesheets": [ 
+    "styles.css"
+  ],
+  "blockElements": [
+    "seg"
+  ],
+  "splitSentencesInBlockElements": false
+}
